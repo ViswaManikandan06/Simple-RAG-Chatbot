@@ -1,1 +1,1 @@
-# Simple-Chatbot
+# Simple-Rag-Chatbot
